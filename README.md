@@ -69,6 +69,34 @@ Create **ONE** query for each of the 10 tasks below. The queries should be saved
 
 ![Results of Query 10](images/results-10.png)
 
+## Rubric
 
+| Criteria | Grade | Pts|
+| ---------| ------| ---|
+| Successfully completed task #1 using one query |  | 2 |
+| Successfully completed task #2 using one query |  | 2 |
+| Successfully completed task #3 using one query |  | 2 |
+| Successfully completed task #4 using one query |  | 2 |
+| Successfully completed task #5 using one query |  | 2 |
+| Successfully completed task #6 using one query |  | 2 |
+| Successfully completed task #7 using one query |  | 2 |
+| Successfully completed task #8 using one query |  | 2 |
+| Successfully completed task #9 using one query |  | 2 |
+| Successfully completed task #10 using one query |  | 2 |
+
+## Submission
+1. Create a commit with the message "Completed the Seussology DB II Assignment"
+2. Push to GitHub
+3. Submit the URL to your GitHub Repository in BrightSpace
+
+By making the submission you also agree to the Algonquin College Student Attestation of Academic Integrity below: 
+
+**I hereby declare that the work I submit throughout the duration of this course/program will be my own work.**
+
+**I understand that plagiarism, whether done deliberately or accidentally, is defined as presenting someone else’s work, in whole or in part, as one’s own, and includes the verbal or written submission of another work (for example, ideas, wording, code, graphics, music, and inventions) without crediting that source. This includes all electronic sources (for example, the Internet, television, video, film, and recordings), all print and written sources (for example, books, periodicals, lyrics, government publications, promotional materials, and academic assignments), and all verbal sources (for example, conversations and interviews).**
+
+**I understand that the facilitation of plagiarism, that is, one student sharing his or her work with other students, is also considered an act of plagiarism.**
+
+**I understand that contravening Algonquin College Policy AA 20 - Plagiarism will result in an academic sanction(s) as described in this directive.**
 
 
