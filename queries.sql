@@ -10,7 +10,7 @@
 
 
 
--- 4. Using subqueries, update all of the quotes in the `quotes` table for the book “The Big Brag” to the book id for the book “Yertle the Turtle”
+-- 4. Using subqueries, set all of the quotes in the `quotes` table for the book "The Big Brag" to the book id for the book "Yertle the Turtle"
 
 
 
@@ -26,7 +26,7 @@
 
 
 
--- 8. Retrieve the newest book title (`book_title`) from the `books` table that is in the category of "Beginner Books".
+-- 8. Retrieve the newest book year (`book_year`) from the `books` table in the category of "Beginner Books".
 
 
 
@@ -34,5 +34,5 @@
 
 
 
--- 10. Using INNER JOINs, retrieve the second set of 5 quotes (`quotes`) and book titles (`book_title`) for all of the books in the “Beginner’s Books” category when the results are sorted by the book title (`book_title`)
+-- 10. Using INNER JOINs, retrieve the second set of 5 book titles (`book_title`) and quotes (`quotes`) for all of the books in the "Beginner's Books" category when the results are sorted by the book title (`book_title`).
 
